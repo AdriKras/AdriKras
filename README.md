@@ -1,17 +1,13 @@
-## Hi, ich bin Adrian Krasniqi
+Hi, ich bin Adrian Krasniqi 👋
 
-Ich absolviere aktuell eine Umschulung zum Fachinformatiker für Anwendungsentwicklung (FIAE) am Syntax Institut in Bochum.
+Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung (FIAE)** am Syntax Institut in Bochum.
 
-Mein Fokus liegt darauf, Programmierlogik, Linux, Python und Datenbanken praktisch anzuwenden, um saubere Software zu bauen – mit dem langfristigen Ziel, mich im Bereich Cyber Security und IT-Architektur zu spezialisieren.
-
----
+Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Architekturen** praktisch zu verstehen und sauberen Code zu schreiben – von logischen Skripten über Datenbankverbindungen bis hin zu strukturierten Web-Anwendungen.
 
 ### 🎯 Aktueller Fokus
-
-- **Softwareentwicklung & Python** – Code-Logik, Automatisierung und eigene Skripte.
-- **Betriebssysteme** – Hauptsächlich Linux (Umgang mit Konsole, Logs, Rechten) sowie Windows-Grundlagen.
-- **Datenbanken** – SQL, Datenstrukturen und Abfragen.
-- **Cyber Security & Architektur** – Verständnis von Systemen, Netzwerksicherheit und sicherer Software-Konzeption.
+* **Softwareentwicklung & Python:** Code-Logik, OOP, Automatisierung und Datenstrukturen.
+* **Linux & Backend Systems:** Terminal-Workflow, Shell-Skripte, Systemverwaltung und moderne Backend-Pfade (u. a. Boot.dev).
+* **Datenbanken & Tools:** SQL, Git & GitHub-Workflow.
 
 ---
 
