@@ -32,8 +32,6 @@ Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Archit
 
 - 🐙 **GitHub:** [AdriKras](https://github.com/AdriKras)
 - 📧 **E-Mail:** [adrikras2357@gmail.com](mailto:adrikras2357@gmail.com)
-- 📧 **E-Mail:** [adrian.krasniqi@edu.dualis-institut.de](mailto:adrian.krasniqi@edu.dualis-institut.de)
-  
 
 ---
 
