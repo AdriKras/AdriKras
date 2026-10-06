@@ -11,7 +11,7 @@ Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Archit
 
 ---
 
-### 🛠️ Technische Kenntnisse
+### Technische Kenntnisse
 
 | Bereich | Technologien / Themen |
 | --- | --- |
