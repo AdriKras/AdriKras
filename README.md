@@ -35,7 +35,7 @@ Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Archit
 
 ---
 
-*Schwerpunkte: FIAE · Python · Linux · SQL · Cybersecurity · IT-Architektur*
+*Schwerpunkte: FIAE · Python · Linux · SQL · Docker
 
 
 
