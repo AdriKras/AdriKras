@@ -18,7 +18,7 @@ Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Archit
 | **Programmierung** | Python, Skripte, Logik, Funktionen, Datenstrukturen |
 | **Betriebssysteme** | Linux, Windows |
 | **Datenbanken** | SQL |
-| **Tools & Versionierung** | Git, GitHub, Terminal / Command Line |
+| **Tools & Versionierung** |  GitHub, Terminal / Command Line |
 
 ---
 
