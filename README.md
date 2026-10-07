@@ -25,8 +25,13 @@ Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Archit
 ### Hauptprojekte
 
 - **Python-erste-Schritte (Pinned)** – Meine ersten eigenentwickelten Python-Skripte (u. a. interaktiver Würfel-Simulator, Roboter-Logik für Paket-Sortierung und mein erstes kleines Python Spiel, welches ich hier langsam aufbauen werde).
-
 Des Weiteren habe ich auch meine erste App Idee hochgeladen
+
+---
+### Zertifikate 
+
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5bbabf6e-c02c-4c1b-9ab3-63bab5786b9a.jpeg?v=1791396362)](https://www.boot.dev/certificates/5bbabf6e-c02c-4c1b-9ab3-63bab5786b9a)
+
 
 ---
 
