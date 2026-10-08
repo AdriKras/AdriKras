@@ -2,7 +2,7 @@ Hi, ich bin Adrian Krasniqi 👋
 
 Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung (FIAE)** am Syntax Institut in Bochum.
 
-Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Architekturen** praktisch zu verstehen und sauberen Code zu schreiben – von logischen Skripten über Datenbankverbindungen bis hin zu strukturierten Web-Anwendungen.
+Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Architekturen** praktisch zu verstehen und sauberen Code zu schreiben, von logischen Skripten bis hin zu Datenbankverbindungen.
 
 ###  Aktueller Fokus
 * **Softwareentwicklung & Python:** Code-Logik, OOP, Automatisierung und Datenstrukturen.
