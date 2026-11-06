@@ -17,7 +17,7 @@ Meine Begeisterung gilt der Softwareentwicklung, insbesondere der Programmierung
 
 | Bereich | Technologien |
 |---|---|
-| Programmiersprachen | Python, SQL, JavaScript |
+| Programmiersprachen | Python, SQL |
 | Datenbanken | PostgreSQL |
 | Betriebssysteme | Linux, Windows |
 | Versionsverwaltung | Git, GitHub |
