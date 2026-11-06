@@ -22,13 +22,13 @@ Mein Interesse gilt der Softwareentwicklung, insbesondere Python, Datenbanken un
 
 ## Eigene Projekte
 
-### 🎮 Browsergame – Das Heldenbuch
+###  Browsergame – Das Heldenbuch
 Eigenständige Entwicklung eines Browsergames mit Charakteren, Quests und dynamischem Kampfsystem.
 
-### 🗄️ PostgreSQL – Datenbankprojekt
+###  PostgreSQL – Datenbankprojekt
 Aufbau einer relationalen Datenbank mit PostgreSQL. Beschäftigung mit Tabellenbeziehungen, Primär- und Fremdschlüsseln sowie SQL-Abfragen.
 
-### 🐍 Python – Erste Projekte
+###  Python – Erste Projekte
 Sammlung eigener Python-Skripte und kleiner Anwendungen zur Vertiefung der Programmiergrundlagen.
 
 ---
