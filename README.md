@@ -1,31 +1,35 @@
-Hi, ich bin Adrian Krasniqi 👋
+# Hi, ich bin Adrian Krasniqi 👋
 
-Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung (FIAE)** am Syntax Institut in Bochum.
+Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung (FIAE)** im Bildung für Morgen Institut in Bochum.
 
-Mein Fokus liegt darauf, **Softwareentwicklung, Linux-Systeme und Backend-Architekturen** praktisch zu verstehen und sauberen Code zu schreiben, von logischen Skripten bis hin zu Datenbankverbindungen.
+Mein Interesse gilt der Softwareentwicklung, insbesondere Python, Datenbanken und Backend-Entwicklung. Neben den Inhalten meiner Umschulung beschäftige ich mich eigenständig mit Programmierprojekten, Datenbankmodellierung und Linux-Systemen.
 
-###  Aktueller Fokus
-* **Softwareentwicklung & Python:** Code-Logik, OOP, Automatisierung und Datenstrukturen.
-* **Linux & Backend Systems:** Terminal-Workflow, Shell-Skripte, Systemverwaltung und moderne Backend-Pfade (u. a. Boot.dev).
-* **Datenbanken & Tools:** SQL, Git & GitHub-Workflow.
+## Aktueller Fokus
 
----
+- **Python & Softwareentwicklung:** Objektorientierte Programmierung (OOP), Funktionen, Datenstrukturen und Anwendungslogik.
+- **Datenbanken:** SQL, PostgreSQL, relationale Datenbankmodellierung und Datenbankdesign.
+- **Linux & Systeme:** Terminal, Shell-Skripte und Systemverwaltung.
+- **Softwareentwicklung:** Git, GitHub und strukturierte Projektentwicklung.
 
-### Technische Kenntnisse
+## Technische Kenntnisse
 
 | Bereich | Technologien / Themen |
-| --- | --- |
-| **Programmierung** | Python, Skripte, Logik, Funktionen, Datenstrukturen |
-| **Betriebssysteme** | Linux, Windows |
-| **Datenbanken** | SQL |
-| **Tools & Versionierung** |  GitHub, Terminal / Command Line |
+|---|---|
+| Programmierung | Python, HTML, CSS, JavaScript |
+| Datenbanken | SQL, PostgreSQL |
+| Betriebssysteme | Linux, Windows |
+| Tools | Git, GitHub, Terminal |
 
----
+## Eigene Projekte
 
-### Hauptprojekte
+### 🎮 Browsergame – Das Heldenbuch
+Eigenständige Entwicklung eines Browsergames mit Charakteren, Quests und dynamischem Kampfsystem.
 
-- **Python-erste-Schritte (Pinned)** – Meine ersten eigenentwickelten Python-Skripte (u. a. interaktiver Würfel-Simulator, Roboter-Logik für Paket-Sortierung und mein erstes kleines Python Spiel, welches ich hier langsam aufbauen werde).
-Des Weiteren habe ich auch meine erste App Idee hochgeladen
+### 🗄️ PostgreSQL – Datenbankprojekt
+Aufbau einer relationalen Datenbank mit PostgreSQL. Beschäftigung mit Tabellenbeziehungen, Primär- und Fremdschlüsseln sowie SQL-Abfragen.
+
+### 🐍 Python – Erste Projekte
+Sammlung eigener Python-Skripte und kleiner Anwendungen zur Vertiefung der Programmiergrundlagen.
 
 ---
 ### Zertifikate 
