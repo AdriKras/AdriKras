@@ -1,35 +1,47 @@
 # Hi, ich bin Adrian Krasniqi 👋
 
-Ich absolviere aktuell eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung (FIAE)** im Bildung für Morgen Institut in Bochum.
+### angehender Fachinformatiker für Anwendungsentwicklung
 
-Mein Interesse gilt der Softwareentwicklung, insbesondere Python, Datenbanken und Backend-Entwicklung. Neben den Inhalten meiner Umschulung beschäftige ich mich eigenständig mit Programmierprojekten, Datenbankmodellierung und Linux-Systemen.
+Ich absolviere seit Dezember 2025 eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung** im Bildung für Morgen Institut in Bochum.
 
-## Aktueller Fokus
+Meine Begeisterung gilt der Softwareentwicklung, insbesondere der Programmierung mit Python und der Arbeit mit relationalen Datenbanken. Auf diesem GitHub-Profil dokumentiere ich meine Lernfortschritte, praktische Übungen und eigene Projekte aus dem Bereich der Anwendungsentwicklung.
 
-- **Python & Softwareentwicklung:** Objektorientierte Programmierung (OOP), Funktionen, Datenstrukturen und Anwendungslogik.
-- **Datenbanken:** SQL, PostgreSQL, relationale Datenbankmodellierung und Datenbankdesign.
-- **Linux & Systeme:** Terminal, Shell-Skripte und Systemverwaltung.
-- **Softwareentwicklung:** Git, GitHub und strukturierte Projektentwicklung.
+##  Aktuelle Schwerpunkte
 
-## Technische Kenntnisse
+- **Python:** Programmiergrundlagen, objektorientierte Programmierung (OOP), Funktionen und Datenstrukturen
+- **SQL & PostgreSQL:** Relationale Datenbanken, Datenbankmodellierung und SQL-Abfragen
+- **Linux:** Arbeiten mit der Kommandozeile und grundlegende Systemverwaltung
+- **Softwareentwicklung:** Git, GitHub und strukturierte Entwicklung von Anwendungen
 
-| Bereich | Technologien / Themen |
+##  Technologien & Kenntnisse
+
+| Bereich | Technologien |
 |---|---|
-| Programmierung | Python, HTML, CSS, JavaScript |
-| Datenbanken | SQL, PostgreSQL |
+| Programmiersprachen | Python, SQL, JavaScript |
+| Datenbanken | PostgreSQL |
 | Betriebssysteme | Linux, Windows |
-| Tools | Git, GitHub, Terminal |
+| Versionsverwaltung | Git, GitHub |
 
-## Eigene Projekte
+##  Was du hier findest
 
-###  Browsergame – Das Heldenbuch
-Eigenständige Entwicklung eines Browsergames mit Charakteren, Quests und dynamischem Kampfsystem.
+In meinen Repositories findest du unter anderem:
 
-###  PostgreSQL – Datenbankprojekt
-Aufbau einer relationalen Datenbank mit PostgreSQL. Beschäftigung mit Tabellenbeziehungen, Primär- und Fremdschlüsseln sowie SQL-Abfragen.
+- Python-Übungen und Programmieraufgaben aus meiner Umschulung
+- Dokumentationen zu Datenbankgrundlagen und SQL
+- Praktische Übungen mit PostgreSQL
+- Eigene Projekte zur Vertiefung meiner Programmierkenntnisse
 
-###  Python – Erste Projekte
-Sammlung eigener Python-Skripte und kleiner Anwendungen zur Vertiefung der Programmiergrundlagen.
+Ich lege Wert darauf, nicht nur theoretisches Wissen aufzubauen, sondern das Gelernte durch praktische Anwendungen zu vertiefen.
+
+##  Meine Ziele
+
+Mein Ziel ist es, meine Kenntnisse in der Softwareentwicklung kontinuierlich auszubauen, praktische Erfahrungen zu sammeln und mich langfristig als Anwendungsentwickler weiterzuentwickeln.
+
+Ich freue mich über den Austausch mit anderen Entwicklern und über konstruktives Feedback zu meinen Projekten.
+
+---
+
+*Learning by doing – Schritt für Schritt zum Softwareentwickler.*
 
 ---
 ### Zertifikate 
@@ -49,12 +61,13 @@ Sammlung eigener Python-Skripte und kleiner Anwendungen zur Vertiefung der Progr
 
 ###  Kontakt
 
--  **GitHub:** [AdriKras](https://github.com/AdriKras)
--  **E-Mail:** [adrikras2357@gmail.com](mailto:adrikras2357@gmail.com)
+- **GitHub:** [AdriKras](https://github.com/AdriKras)
+- **E-Mail:** adrikras2357@gmail.com
+
 
 ---
 
-*Schwerpunkte: FIAE · Python · Linux · SQL · Docker
+*Schwerpunkte: FIAE · Python · Linux · SQL · 
 
 
 
